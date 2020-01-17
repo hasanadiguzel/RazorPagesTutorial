@@ -1,0 +1,8 @@
+C:\Users\Hasan\Documents\Visual Studio 2019\Projects\RazorPagesTutorial\RazorPageTutorials.Model\bin\Debug\netstandard2.0\RazorPageTutorials.Model.deps.json
+C:\Users\Hasan\Documents\Visual Studio 2019\Projects\RazorPagesTutorial\RazorPageTutorials.Model\bin\Debug\netstandard2.0\RazorPageTutorials.Model.dll
+C:\Users\Hasan\Documents\Visual Studio 2019\Projects\RazorPagesTutorial\RazorPageTutorials.Model\bin\Debug\netstandard2.0\RazorPageTutorials.Model.pdb
+C:\Users\Hasan\Documents\Visual Studio 2019\Projects\RazorPagesTutorial\RazorPageTutorials.Model\obj\Debug\netstandard2.0\RazorPageTutorials.Model.csprojAssemblyReference.cache
+C:\Users\Hasan\Documents\Visual Studio 2019\Projects\RazorPagesTutorial\RazorPageTutorials.Model\obj\Debug\netstandard2.0\RazorPageTutorials.Model.AssemblyInfoInputs.cache
+C:\Users\Hasan\Documents\Visual Studio 2019\Projects\RazorPagesTutorial\RazorPageTutorials.Model\obj\Debug\netstandard2.0\RazorPageTutorials.Model.AssemblyInfo.cs
+C:\Users\Hasan\Documents\Visual Studio 2019\Projects\RazorPagesTutorial\RazorPageTutorials.Model\obj\Debug\netstandard2.0\RazorPageTutorials.Model.dll
+C:\Users\Hasan\Documents\Visual Studio 2019\Projects\RazorPagesTutorial\RazorPageTutorials.Model\obj\Debug\netstandard2.0\RazorPageTutorials.Model.pdb
